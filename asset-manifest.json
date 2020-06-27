@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/gaurav-kalita.github.io/season-app/static/css/main.059bb210.chunk.css",
-    "main.js": "/gaurav-kalita.github.io/season-app/static/js/main.0367eb46.chunk.js",
-    "main.js.map": "/gaurav-kalita.github.io/season-app/static/js/main.0367eb46.chunk.js.map",
+    "main.js": "/gaurav-kalita.github.io/season-app/static/js/main.136ee6f9.chunk.js",
+    "main.js.map": "/gaurav-kalita.github.io/season-app/static/js/main.136ee6f9.chunk.js.map",
     "runtime-main.js": "/gaurav-kalita.github.io/season-app/static/js/runtime-main.16cbdb8e.js",
     "runtime-main.js.map": "/gaurav-kalita.github.io/season-app/static/js/runtime-main.16cbdb8e.js.map",
-    "static/js/2.c4207cd8.chunk.js": "/gaurav-kalita.github.io/season-app/static/js/2.c4207cd8.chunk.js",
-    "static/js/2.c4207cd8.chunk.js.map": "/gaurav-kalita.github.io/season-app/static/js/2.c4207cd8.chunk.js.map",
+    "static/js/2.4b374187.chunk.js": "/gaurav-kalita.github.io/season-app/static/js/2.4b374187.chunk.js",
+    "static/js/2.4b374187.chunk.js.map": "/gaurav-kalita.github.io/season-app/static/js/2.4b374187.chunk.js.map",
     "index.html": "/gaurav-kalita.github.io/season-app/index.html",
-    "precache-manifest.b9a68620cda2e161965c4ac69fd6a9bd.js": "/gaurav-kalita.github.io/season-app/precache-manifest.b9a68620cda2e161965c4ac69fd6a9bd.js",
+    "precache-manifest.1677cd16c1ed985295b206beb7aa2e1a.js": "/gaurav-kalita.github.io/season-app/precache-manifest.1677cd16c1ed985295b206beb7aa2e1a.js",
     "service-worker.js": "/gaurav-kalita.github.io/season-app/service-worker.js",
     "static/css/main.059bb210.chunk.css.map": "/gaurav-kalita.github.io/season-app/static/css/main.059bb210.chunk.css.map",
-    "static/js/2.c4207cd8.chunk.js.LICENSE.txt": "/gaurav-kalita.github.io/season-app/static/js/2.c4207cd8.chunk.js.LICENSE.txt"
+    "static/js/2.4b374187.chunk.js.LICENSE.txt": "/gaurav-kalita.github.io/season-app/static/js/2.4b374187.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.16cbdb8e.js",
-    "static/js/2.c4207cd8.chunk.js",
+    "static/js/2.4b374187.chunk.js",
     "static/css/main.059bb210.chunk.css",
-    "static/js/main.0367eb46.chunk.js"
+    "static/js/main.136ee6f9.chunk.js"
   ]
 }
