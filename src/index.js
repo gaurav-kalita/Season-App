@@ -2,8 +2,7 @@ import React from  'react';
 import ReactDOM from 'react-dom';
 import SeasonDisplay from './SeasonDisplay.js';
 import Spinner from './spinner.js';
-
-
+import { HashRouter} from "react-router-dom";
 
  class App extends React.Component{
     state =  {lat:null, errorMessage:''};
@@ -28,7 +27,7 @@ import Spinner from './spinner.js';
     }
 
     render(){
-        return <div className="border red">{this.renderContent()}</div>;
+        return  <HashRouter basename='/'> <div className="border red">{this.renderContent()}</div>  </HashRouter>;
     }
 }
  
